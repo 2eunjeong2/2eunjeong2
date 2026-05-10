@@ -117,7 +117,7 @@ LED, 모터, 초음파 센서, 온습도 센서, WiFi TCP 통신, HTTP, 웹 서�
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=2eunjeong2&theme=default&hide_border=true)](https://github.com/2eunjeong2)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2eunjeong2&layout=compact&hide_border=true&theme=default&langs_count=8)](https://github.com/2eunjeong2)
+[![trophy](https://github-profile-trophy.vercel.app/?username=2eunjeong2&theme=flat&no-frame=true&column=4&margin-w=8)](https://github.com/2eunjeong2)
 
 ---
 
