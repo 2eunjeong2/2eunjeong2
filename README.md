@@ -115,8 +115,14 @@ LED, 모터, 초음파 센서, 온습도 센서, WiFi TCP 통신, HTTP, 웹 서�
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2eunjeong2&show_icons=true&theme=default&hide_border=true&count_private=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2eunjeong2&layout=compact&hide_border=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2eunjeong2&layout=compact&hide_border=true&theme=default&langs_count=8&cache_seconds=86400)
+
+| 항목 | 수치 |
+|---|---|
+| 공개 저장소 | 10개 |
+| 주요 언어 | Python · Java · C++ · C |
+| 학습 시작 | 2026년 1월 |
+| 최근 프로젝트 | YOLOv8 영아 안전 모니터링 |
 
 ---
 
